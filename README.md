@@ -22,7 +22,7 @@ A small machine-learning project that trains a model to classify drinking water 
 ## Quick start
 1) Install deps (example):
 ```bash
-pip install  streamlit scikit-learn xgboost seaborn plotly folium streamlit-folium missingno joblib pandas numpy
+pip install  requirements.txt
 ```
 2) Retrain and regenerate artifacts:
 ```bash
